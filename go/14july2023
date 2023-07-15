@@ -1,1 +1,20 @@
+# In The Thick of It (Again)
+14 July 2023
+
+I'm back with an intentionally out-of-place update here on GitHub instead of somewhere designed for this sort of thing like Substack. 
+
+## Project Updates
+### Optimal
+Optimal v11 is in early alpha development, designed first in Sketch and then imported to Webflow CMS. Unlike previous major Optimal versions, no "Made In" badging will be in place. 
+
+All page source code will feature three different code exports to GitHub for each breakpoint (desktop, tablet, mobile). All desktop breakpoints, regardless of the page, will load the same splash page with instructions to visit the site on a mobile device since Optimal does not support desktops.
+
+### Personal Site
+A warning is now in place on my personal site to nofify users of an upcoming domain change. Similarly to Optimal, this site is also moving to Webflow CMS. 
+
+Because all of my sites are accessible from the dub.sh dynamic shortening service, the site will always be accessible from dub.sh/gabe regardless of a domain change. Unlike other shortening services, Dub allows for a shortened link target to be changed after its creation.
+
+## Get More Updates
+On Instagram - [@gabefletch](https://instagram.com/gabefletch)
+(and on [Threads](https://threads.net/gabefletch))
 
